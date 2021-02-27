@@ -1,3 +1,18 @@
-div.a {
-  text-align: right;
+
+#menulink{
+}
+#menulink li{
+display:inline;
+}
+
+#menulink li a {
+color:white;
+text-decoration:none;
+background:black;
+padding: 10px;
+  }
+
+
+#menulink li a:hover{
+Background:red;
 }
